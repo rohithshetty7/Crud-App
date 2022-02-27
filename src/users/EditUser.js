@@ -27,7 +27,7 @@ setusers({...user,[e.target.name]:e.target.value})
 const Onsubmit=async(e)=>{
   e.preventDefault()
 await axios.put(`http://localhost:3001/users/${id}`,user)
-history.push('/home')
+history.push('/')
 
 }
 

@@ -22,7 +22,7 @@ function View() {
   };
   return (
     <div className="container py-4">
-      <Link className="btn btn-primary mt-3" to='/home'>Back to home</Link>
+      <Link className="btn btn-primary mt-3" to='/'>Back to home</Link>
       <h1 className="display-4">USer Id:{id}</h1>
 
 

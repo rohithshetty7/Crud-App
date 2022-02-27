@@ -1,29 +1,6 @@
 {
   "users": [
     {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
-      },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    },
-    {
       "id": 4,
       "name": "Patricia Lebsack",
       "username": "Karianne",
@@ -107,6 +84,14 @@
       "phone": "4444-444-444",
       "website": "hari.com",
       "id": 8
+    },
+    {
+      "name": "Aravind",
+      "username": "aravind",
+      "email": "ar@gmail.com",
+      "phone": "222222-2----2-2-2-2-2",
+      "website": "www.com",
+      "id": 9
     }
   ]
 }
